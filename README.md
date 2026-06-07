@@ -1,1 +1,0 @@
-An analog electronics project that uses an LDR and LM358 Op-Amp comparator to automatically detect ambient light conditions and control an LED output for automation and energy-efficient lighting applications.
